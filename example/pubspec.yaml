@@ -1,8 +1,8 @@
 name: example
 publish_to: none
 version: 0.0.1
-homepage: https://pwa.ir
-repository: https://github.com/xclud/web3dart
+homepage: https://softobit.com
+repository: https://github.com/softobit/web3dart_plus.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
